@@ -10,6 +10,7 @@
     <string name="control_back">Indietro</string>
     <string name="createcity_start">Inizia</string>
     <string name="loadcity_load">Inizia</string>
+    
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Abitanti: %1$,d</string>
     <string name="game_cityname">%1$s</string>
@@ -57,7 +58,7 @@
     <string name="draftselector_monthlyprice">Costo mensile: %s</string>
     <string name="draftselector_id">ID: %1$s</string>
     <string name="loadcity_cmddelete">Elimina</string>
-    <string name="loadcity_deletedialog_text">Vuoi davvero eliminare?</string>
+    <string name="loadcity_deletedialog_text">Vuoi davvero eliminare? Non può essere annullato.</string>
     <string name="loadcity_deletedialog_title">Elimina città</string>
     <string name="loadcity_deletedialog_cmdcancel">Annulla</string>
     <string name="loadcity_deletedialog_cmddelete">Elimina</string>
@@ -80,11 +81,11 @@
     <string name="draft_townhall00_title">Municipio</string>
     <string name="draft_townhall00_text">Una grande città ha bisogno di un municipio. Ai tuoi abitanti piacerà.</string>
     <string name="draft_wire00_title">Cavi</string>
-    <string name="draft_wire00_text">Usa questi cavi per connettere la tua città ai tuoi impianti energetici.</string>
+    <string name="draft_wire00_text">Usa questi cavi per connettere la tua città alle tue centrali elettriche.</string>
     <string name="draft_windturbine00_title">Pala eolica</string>
     <string name="draft_windturbine00_text">Una pala eolica fa molto rumore ma non genera inquinamento.</string>
     <string name="draft_coalplant00_title">Centrale a carbone</string>
-    <string name="draft_coalplant00_text">La centrale a carbone produce molta energia ma danneggia l\'ambiente.</string>
+    <string name="draft_coalplant00_text">La centrale a carbone produce molta energia ma danneggia l\'ambiente e la gente non vule viverci vicino.</string>
     <string name="draft_solarpanels00_title">Pannelli solari</string>
     <string name="draft_solarpanels00_text">I pannelli solari non danneggiano o inquinano l\'ambiente.</string>
     <string name="draft_park00_title">Aiuola piccola</string>
@@ -137,7 +138,7 @@
     <string name="draft_management00_title">Dipartimento di polizia</string>
     <string name="draft_management00_text">Per ulteriore sicurezza.</string>
     <string name="draft_firedepartment00_title">Stazione dei pompieri</string>
-    <string name="draft_firedepartment00_text">Protegge la città dagli incendi.</string>
+    <string name="draft_firedepartment00_text">Protegge la città dagli incendi. Ha due veicoli e un discreto raggio d\'azione.</string>
     <string name="draft_statue00_title">Statua</string>
     <string name="draft_statue00_text">Una statua del sindaco.</string>
     <string name="draft_gillender00_title">Palazzo Gilleder</string>
