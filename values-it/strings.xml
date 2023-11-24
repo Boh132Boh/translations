@@ -236,11 +236,11 @@
     <string name="draft_zonecommercial_title">Commerciale</string>
     <string name="draft_zonecommercial_text">I commercianti possono costruire in questa zona.</string>
     <string name="draft_zoneindustrial_title">Industriale</string>
-    <string name="draft_zoneindustrial_text">Gli industriali potranno costruire in questa zona.</string>
+    <string name="draft_zoneindustrial_text">Qui saranno costruite delle industrie.</string>
     <string name="draft_road00_title">Strada sterrata</string>
     <string name="draft_road00_text">Una semplice strada sterrata.</string>
     <string name="draft_road01_title">Strada asfaltata</string>
-    <string name="draft_road01_text">Le auto possono correre più velocemente su questa strada.</string>
+    <string name="draft_road01_text">Le auto vanno più velocemente su questa strada.</string>
     <string name="draftselector_titleterrain">Terreno</string>
     <string name="draft_terrainwater_title">Acqua</string>
     <string name="draft_terrainwater_text">Posiziona acqua nella mappa.</string>
@@ -255,14 +255,14 @@
     <string name="settings_orientationportrait">Ritratto</string>
     <string name="settings_orientationauto">Auto</string>
     <string name="draft_busdepot00_title">Deposito degli autobus</string>
-    <string name="draft_busdepot00_text">Un deposito degli autobus è necessario per produrre autobus.</string>
+    <string name="draft_busdepot00_text">Un deposito degli autobus è necessario per avere dei pullman.</string>
     <string name="settings_debugmode">Modalità debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Rimuovi</string>
     <string name="draftselector_titleview">Indicatori</string>
     <string name="toolremove_default_title">Rimuovi</string>
-    <string name="toolremove_default_text">Con questo strumento puoi rimuovere qualsiasi cosa ad eccezione dei cavi e delle condutture per l\'acqua.</string>
-    <string name="toolremove_pipe_text">Questo strumento può essere utilizzato per rimuovere le condutture.</string>
+    <string name="toolremove_default_text">Con questo strumento puoi rimuovere quasi ogni cosa. Per le zone utilizza l'apposito strumento.</string>
+    <string name="toolremove_pipe_text">Questo strumento può essere utilizzato per rimuovere le condutture dell'acqua.</string>
     <string name="toolremove_pipe_title">Rimuovi condutture</string>
     <string name="draftselector_cmdremove">Rimuovi</string>
     <string name="draftselector_cmdview">Vedi</string>
@@ -336,8 +336,8 @@
     <string name="buildinginfo_happiness">Felicità generale: %1$.0f%%</string>
     <string name="notify_noenergy">Ci sono edifici senza energia!</string>
     <string name="notify_nowater">Ci sono edifici senz\'acqua!</string>
-    <string name="draft_footballstadion00_roof_title">Pavimento</string>
-    <string name="draft_footballstadion00_roof_text">Con un pavimento i giochi possono svolgersi in qualunque condizione meteorologica.</string>
+    <string name="draft_footballstadion00_roof_title">Tetto</string>
+    <string name="draft_footballstadion00_roof_text">Con un tetto i giochi possono svolgersi in qualunque condizione meteorologica.</string>
     <string name="draft_footballstadion00_fanshop_title">Negozio dei fan</string>
     <string name="draft_footballstadion00_fanshop_text">Qui vengono venduti accessori.</string>
     <string name="notify_requirementbuilding">Hai sbloccato %1$s.</string>
@@ -354,7 +354,7 @@
     <string name="draft_alert_fire00_title">Chiama la squadra dei pompieri</string>
     <string name="draft_alert_fire00_text">Chiama la squadra dei pompieri quando c\'è un incendio.</string>
     <string name="draft_alert_medic00_title">Chiama il dottore</string>
-    <string name="draft_alert_medic00_text">Quando avviene un incidente devi chiamare il dottore.</string>
+    <string name="draft_alert_medic00_text">Quando avviene un incidente o si scatena un\'epidemia devi chiamare il dottore.</string>
     <string name="buildinginfo_powerusage">Uso: %1$.01f%%</string>
     <string name="buildinginfo_waterusage">Uso: %1$.1f%%</string>
     <string name="settings_maxzoomout">Rimpicciolimento massimo</string>
@@ -399,7 +399,7 @@
 \n
 \nnÈ permesso un solo programma radio per volta. I programmi vecchi saranno rimossi.</string>
     <string name="draft_radio00_faith_title">Radio fede</string>
-    <string name="draft_radio00_faith_text">Manda in onda conversazioni sulla fede e sulla nostra esistenza sulla terra. Funziona praticamente come un edificio sacro con un raggio d\'azione più elevato.
+    <string name="draft_radio00_faith_text">Manda in onda conversazioni sulla fede e sulla nostra esistenza sulla terra. Funziona praticamente come un edificio di culto con un raggio d\'azione più elevato.
 \n
 \nÈ permesso un solo programma radio per volta. I programmi vecchi saranno rimossi.</string>
     <string name="draft_lighthouse00_title">Faro</string>
@@ -438,7 +438,7 @@
     <string name="tutorial_buildindustrial_b">Imposta la zona sulle piastrelle evidenziate.</string>
     <string name="tutorial_buildindustrial_c">Ottimo lavoro. Ora verranno costruiti gli edifici.</string>
     <string name="tutorial_industrial_keepaway">Dovresti mantenere le zone industriali lontane dalle altre a causa dell\'inquinamento ambientale e acustico.</string>
-    <string name="tutorial_rci">Tocca questo bottone per vedere dettagliate informazioni sui bisogni per ogni tipo di zona.</string>
+    <string name="tutorial_rci">Tocca questo bottone per vedere dettagliate informazioni sulla domanda per ogni tipo di zona.</string>
     <string name="tutorial_speed_fast">Puoi modificare la velocità di simulazione per accorciare i tempi d\'attesa.</string>
     <string name="tutorial_speed_normal">Ora reimpostala alla velocità normale.</string>
     <string name="tutorial_money_task">Il tuo compito è guadagnare denaro per espandere la tua città.</string>
@@ -459,7 +459,7 @@
     <string name="settings_disaster_godzilla">Godzilla</string>
     <string name="settings_disaster_auto">Catastrofi automatiche</string>
     <string name="notify_firenodp">C\'è un incendio nella tua citta! Costruisci delle stazioni dei pompieri per spegnerlo.</string>
-    <string name="draft_destroyedtile_title">Rottami</string>
+    <string name="draft_destroyedtile_title">Macerie</string>
     <string name="draft_destroyedtile_text">Un edificio distrutto. Dovresti rimuoverlo.</string>
     <string name="disaster_fire_title">Incendio</string>
     <string name="disaster_fire_text">Dai fuoco a tutto!</string>
@@ -481,6 +481,7 @@
     <string name="ci_loan_donate">Elemosina</string>
     <string name="ci_loan_get">Aumenta</string>
     <string name="ci_loan_donate_text">Per favore, dammi qualche centesimo.. ne ho bisogno :(</string>
+    
     <string name="draft_crater4x4_title">Cratere del meteorite</string>
     <string name="draft_crater4x4_text">Un grande cratere creato dal meteorite. Dovresti rimuoverlo.</string>
     <string name="draft_crater1x1_title">Cratere del meteorite</string>
