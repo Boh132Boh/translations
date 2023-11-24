@@ -228,7 +228,7 @@
     <string name="about_engine">Motore grafico</string>
     <string name="draft_police00_title">Dipartimento di polizia</string>
     <string name="draft_police00_text">Per una maggiore sicurezza.</string>
-    <string name="settings_showinfluencepreview">Mostra l\'anteprima dell\'impatto</string>
+    <string name="settings_showinfluencepreview">Mostra un\'anteprima dell\'influenza</string>
     <string name="draftselector_titletransport">Trasporto</string>
     <string name="draftselector_titlezone">Zone</string>
     <string name="draft_zoneresidential_title">Residenziale</string>
