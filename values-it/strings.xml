@@ -85,7 +85,7 @@
     <string name="draft_windturbine00_title">Pala eolica</string>
     <string name="draft_windturbine00_text">Una pala eolica fa molto rumore ma non genera inquinamento.</string>
     <string name="draft_coalplant00_title">Centrale a carbone</string>
-    <string name="draft_coalplant00_text">La centrale a carbone produce molta energia ma danneggia l\'ambiente e la gente non vule viverci vicino.</string>
+    <string name="draft_coalplant00_text">La centrale a carbone produce molta energia ma danneggia l\'ambiente e la gente non vuole viverci vicino.</string>
     <string name="draft_solarpanels00_title">Pannelli solari</string>
     <string name="draft_solarpanels00_text">I pannelli solari non danneggiano o inquinano l\'ambiente.</string>
     <string name="draft_park00_title">Aiuola piccola</string>
