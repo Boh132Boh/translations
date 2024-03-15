@@ -508,8 +508,8 @@
     <string name="draft_zoneindustrial_lvl2_title">Zona industriale ad alta densità</string>
     <string name="draft_zoneindustrial_lvl2_text">Una zona industriale ad alta densità.</string>
     <string name="draft_zonefarm_title">Fattoria</string>
-    <string name="draft_zonefarm_text">Una zona economica per le fattorie. La dimensione minima di una fattoria è 4x4.</string>
-    <string name="requirement_peoplecount_all">Abitanti necessari: di %1$,d</string>
+    <string name="draft_zonefarm_text">Una zona economica per le fattorie. La dimensione minima per le fattorie è 4x4.</string>
+    <string name="requirement_peoplecount_all">Necessaria una popolazione di: %1$,d</string>
     <string name="requirement_peoplecount_poor">Abitanti poveri necessari: %1$,d</string>
     <string name="requirement_peoplecount_middle">Abitanti facoltosi necessari: %1$,d</string>
     <string name="requirement_peoplecount_rich">Abitanti ricchi necessari: di %1$,d</string>
@@ -517,9 +517,9 @@
     <string name="draftselector_onlyone">Può essere costruita solo una volta</string>
     <string name="draftselector_onlyn">Può essere costruita solo %1$,d volte</string>
     <string name="draft_church02_title">Chiesa piccola</string>
-    <string name="draft_church02_text">Una chiesa per piccole città.</string>
+    <string name="draft_church02_text">Fornisce religione e fede ai tuoi abitanti.</string>
     <string name="draft_mosque01_title">Moschea piccola</string>
-    <string name="draft_mosque01_text">Una moschea per piccole città.</string>
+    <string name="draft_mosque01_text">Fornisce religione e fede ai tuoi abitanti.</string>
     <string name="settings_sound_ui">Interfaccia suono</string>
     <string name="settings_sound_game">Suoni del gioco</string>
     <string name="settings_preserveedges">Mantieni i bordi</string>
@@ -548,7 +548,7 @@
     <string name="influence_sport_title">Sport</string>
     <string name="influence_religion_title">Religione</string>
     <string name="influence_culture_title">Cultura</string>
-    <string name="influence_culture_text">La qualità della cultura nella tua città.</string>
+    <string name="influence_culture_text">La cultura migliora la qualità della vita dei tuoi cittadini.</string>
     <string name="influence_education_low_text">Le scuole forniscono una bassa educazione.</string>
     <string name="influence_education_high_text">L\'educazione alta è fornita nelle scuole superiori.</string>
     <string name="influence_firedep_text">La presenza delle stazioni dei pompieri riduce la possibilità di incendi.</string>
@@ -598,7 +598,7 @@
     <string name="loadcity_errordialog_cmdrecover">Recupera</string>
     <string name="draft_plaza00_title">Piazza del paese</string>
     <string name="draft_plaza00_text">Una piazza per il tuo municipio.</string>
-    <string name="topic_birthday_theotown">Buon compleanno Happy birthday TheoTown :D</string>
+    <string name="topic_birthday_theotown">Buon compleanno TheoTown :D</string>
     <string name="menu_cmddonate">Dona</string>
     <string name="draft_waterpump01_title">Pompa d\'acqua piccola</string>
     <string name="draft_waterpump01_text">Dev\'essere costruita vicino all\'acqua.</string>
@@ -634,9 +634,9 @@
     <string name="draft_buoy00_title">Boa</string>
     <string name="draft_buoy00_text">Aiuta le barche a trovare la strada.</string>
     <string name="ci_general_seed">Seme: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Qualche decorazione per i tuoi residenti.</string>
+    <string name="draft_decocom00_text">Qualche decorazione per la tua area commerciale.</string>
+    <string name="draft_decoind00_text">Qualche decorazione per la tua area industriale.</string>
     <string name="ci_budget_title_nomoney">Finanze (teoricamente)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">Impianto nucleare</string>
@@ -645,8 +645,8 @@
     <string name="draft_gasplant00_text">Più economico degli altri impianti. Meno inquinante.</string>
     <string name="draft_carcinema00_title">Cinema drive-in</string>
     <string name="draft_carcinema00_text">Un po\' di intrattenimento per gli abitanti di TheoTown.</string>
-    <string name="notify_lowbudget">Non hai più denaro. Dovresti prenderne un po\' in prestito.</string>
-    <string name="settings_rightsidebar">Barra laterale a sinistra</string>
+    <string name="notify_lowbudget">Non hai più denaro. Potresti prenderne un po\' in prestito.</string>
+    <string name="settings_rightsidebar">Barra laterale sul lato destro</string>
     <string name="settings_topstatusbar">Barra stato in alto</string>
     <string name="settings_leftminimap">Minimappa a sinistra</string>
     <string name="settings_category_ui">Interfaccia utente</string>
@@ -655,7 +655,7 @@
     <string name="draft_rail00_title">Binari</string>
     <string name="draft_rail00_text">Dei binari per i treni passeggeri.</string>
     <string name="draft_railwaystation00_title">Stazione dei treni</string>
-    <string name="draft_railwaystation00_text">Stazione per i treni passeggeri.</string>
+    <string name="draft_railwaystation00_text">Stazione per i treni passeggeri. Le stazioni sono un ottimo modo per ridurre il traffico, costruiscine alcune e collegale con dei binari.</string>
     <string name="draft_school02_title">Scuola piccola</string>
     <string name="draft_school02_text">Una piccola scuola elementare per piccoli villaggi.</string>
     <string name="toolremove_zone_title">Rimuovi zona</string>
@@ -666,7 +666,7 @@
     <string name="draft_marker_ticketmarker_text">Mostra la soddisfazione per i biglietti.</string>
     <string name="trainstationinfo_usage">Aspettando: %2$,d/%3$,d\nUsage: %1$.1f%%</string>
     <string name="draft_firedepartment01_title">Piccola stazione dei pompieri</string>
-    <string name="draft_firedepartment01_text">Contro gli incendi.</string>
+    <string name="draft_firedepartment01_text">Previene ed estingue gli incendi. Ha un'influenza ridotta e un solo veicolo.</string>
     <string name="draft_police01_title">Piccola stazione della polizia.</string>
     <string name="draft_police01_text">Per un po\' di sicurezza.</string>
     <string name="disaster_riot_title">Rivolta</string>
@@ -693,7 +693,7 @@
     <string name="influence_management_text">Controlla la tua città.</string>
     <string name="happiness_management">Gestione</string>
     <string name="dialog_oldmap_title">Città antica</string>
-    <string name="dialog_oldmap_text">TheoTown si è sviluppata molto da quando questa città è stata creata. Essa potrebbe quindi non funzionare correttamente. Per favore non odiarci :)</string>
+    <string name="dialog_oldmap_text">TheoTown si è sviluppata molto da quando questa città è stata creata. Essa potrebbe dunque non funzionare correttamente. Per favore non odiarci (◕‿◕✿)</string>
     <string name="dialog_oldmap_cmdproceed">Procedi</string>
     <string name="dialog_oldmap_cmdcancel">Annulla</string>
     <string name="notify_bad_health">Salute bassa. Dovresti migliorare la qualità dell\'ambiente o costruire una clinica.</string>
